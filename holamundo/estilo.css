@@ -1,0 +1,38 @@
+html{
+    background-color: tomato;
+}
+#tit {
+      color: cyan;
+}
+
+#subt {
+    color:blueviolet;
+
+}
+
+#buu {
+    background-color: aqua;
+}
+
+input{
+    width: 180px;
+    height: 200px;
+    cursor: pointer;
+    font-size: 40px;
+}
+
+input:hover{
+    background-color: brown;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    border: 3px solid black;
+    border-radius: 5px;
+    background-color: greenyellow;
+    width: 300px;
+    margin-top: 58px;
+}
